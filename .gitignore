@@ -6,3 +6,5 @@ TCPL.exe
 Makefile.win
 
 *.o
+*.out
+*.layout
